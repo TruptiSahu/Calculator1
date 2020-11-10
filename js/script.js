@@ -5,7 +5,7 @@ let operationCalc;
 function clearAll() {
   currentOperand = '';
   previousOperand = '';
-  operation = undefined;
+  operationCalc = undefined;
 }
 
 function delNumber() {
